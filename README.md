@@ -34,7 +34,9 @@ $ kubectl apply -f . -R
 
 Para acessar coloque no seu navegador:
 
-![127.0.0.1:8080/api-docs](127.0.0.1:8080/api-docs)
+```console
+127.0.0.1:8080/api-docs
+```
 
 ### 🛠 Tecnologias
 
