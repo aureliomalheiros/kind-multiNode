@@ -30,6 +30,7 @@ Para fazer o deployment da API, basta executar o comando:
 ```console
 $ kubectl apply -f . -R
 ```
+![](imagens/deployment.png)
 
 Para acessar coloque no seu navegador:
 
